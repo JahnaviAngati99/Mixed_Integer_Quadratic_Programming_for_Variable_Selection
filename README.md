@@ -1,0 +1,2 @@
+# Mixed_Integer_Quadratic_Programming_for_Variable_Selection
+MSBA_Fall2023_Optimization_I
